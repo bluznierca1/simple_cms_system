@@ -7,3 +7,4 @@ Users can only see info about subjects and pages - admin can change everything -
 
 This is written to learn how to work with PhP - based on lynda.com tutorial.
 
+Works only on MY localhost - there is a database that is needed to this.
